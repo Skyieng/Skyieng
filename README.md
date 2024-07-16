@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" alt="tableau" width="45" height="45"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyieng&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyieng&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22hmrkhrfcl26afqjk6xfa67i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
